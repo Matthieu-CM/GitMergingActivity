@@ -1,0 +1,225 @@
+[33mcommit a58ba3fe23bf20376d76b00476b0c67f58fca5f2[m[33m ([m[1;36mHEAD -> [m[1;32mFlorent[m[33m, [m[1;31morigin/Florent[m[33m)[m
+Author: Florent <florent.belle@epitech.eu>
+Date:   Fri Oct 30 12:17:46 2020 +0100
+
+    yeap
+
+[33mcommit ad98bc15d372a783429a89ed1e89fcb4314c24c9[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: f8a384b 4de3f27
+Author: francoissteffen <francois.steffen@epitech.eu>
+Date:   Fri Oct 30 12:09:24 2020 +0100
+
+    envoi_1
+    Merge branch 'dev'
+
+[33mcommit 4de3f27e904b7ab28a631fa7f4bb093868e0b0d8[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Merge: 1eb4373 4f07c7f
+Author: francoissteffen <francois.steffen@epitech.eu>
+Date:   Fri Oct 30 11:59:10 2020 +0100
+
+    envoi_1
+    Merge branch 'francois' into dev
+
+[33mcommit 4f07c7ff14bf623e8301152fb18b2280becaaef1[m[33m ([m[1;31morigin/francois[m[33m)[m
+Author: francoissteffen <francois.steffen@epitech.eu>
+Date:   Fri Oct 30 11:44:59 2020 +0100
+
+    envoi_1
+
+[33mcommit 1eb4373a667f0befa370862cd88431c14149deea[m
+Author: brice <brice.bousekkine@epitech.eu>
+Date:   Fri Oct 30 11:30:38 2020 +0100
+
+    test
+
+[33mcommit f8a384b6e98d4ca1c88aa7fe8addf1b9b0fca905[m[33m ([m[1;31morigin/Gecko2[m[33m)[m
+Author: Matthieu-CM <matthieu.correia-moreira@epitech.eu>
+Date:   Fri Oct 30 11:09:39 2020 +0100
+
+    TEST
+
+[33mcommit 4269f91d0881497bffbb2240692f3dbe0858075c[m
+Merge: a2fb169 eb049ca
+Author: Matthieu-CM <matthieu.correia-moreira@epitech.eu>
+Date:   Fri Oct 30 11:08:40 2020 +0100
+
+    Merge branch 'dev' of github.com:Matthieu-CM/GitMergingActivity into dev
+
+[33mcommit a2fb169ea7f522ece1e7e38965896bd8bf937703[m[33m ([m[1;31morigin/Gecko[m[33m)[m
+Author: Matthieu-CM <matthieu.correia-moreira@epitech.eu>
+Date:   Fri Oct 30 11:07:27 2020 +0100
+
+    [ADD] GEcko file
+
+[33mcommit eb049ca06b915a021103505b56ded88ffd28a19d[m
+Merge: be4cf3c 6f301ae
+Author: Youssefthr <youssef-amine.tahour@epitech.eu>
+Date:   Fri Oct 30 11:06:54 2020 +0100
+
+    Merge branch 'dev' of github.com:Matthieu-CM/GitMergingActivity into dev
+
+[33mcommit be4cf3c772753a6928cba182617d7be00d5defc6[m
+Author: Youssefthr <youssef-amine.tahour@epitech.eu>
+Date:   Fri Oct 30 11:05:44 2020 +0100
+
+    T
+
+[33mcommit 6f301aec6f5a2b6d632a79dfc05e8078d619061b[m
+Merge: 2c9d671 b44100d
+Author: Loic <loic.dubrulle@epitech.eu>
+Date:   Fri Oct 30 11:01:57 2020 +0100
+
+    Merge branch 'dev' of github.com:Matthieu-CM/GitMergingActivity into dev
+
+[33mcommit 2c9d6716a3924ef6cc539beaeea1ae0f33aaecc5[m
+Author: Loic <loic.dubrulle@epitech.eu>
+Date:   Fri Oct 30 11:01:13 2020 +0100
+
+    commit loic
+
+[33mcommit b44100d788e84318e23a0408af3e7e868b1fa1c2[m
+Merge: 8339fa6 a6092b7
+Author: Bigo <jbsilvestre@hotmail.fr>
+Date:   Fri Oct 30 11:00:06 2020 +0100
+
+    changes
+
+[33mcommit 0cd3cf4de9eb31682ec8137ae32da9577759f9e2[m
+Merge: 227955e 6a54f75
+Author: Loic <loic.dubrulle@epitech.eu>
+Date:   Fri Oct 30 10:58:48 2020 +0100
+
+    Merge branch 'dev' of github.com:Matthieu-CM/GitMergingActivity into dev
+
+[33mcommit 8339fa61f5e69bf7337e59aec10bc0caf6b3ddba[m
+Merge: 14cb0c5 0716464
+Author: Bigo <jbsilvestre@hotmail.fr>
+Date:   Fri Oct 30 10:58:27 2020 +0100
+
+    Merge branch 'Jibé' into dev
+
+[33mcommit a6092b7b2d41c985f3c0c331492f511289411d4e[m
+Merge: 9bbbaa3 6a54f75
+Author: Quentin GUYOT <quentin.guyot@epitech.eu>
+Date:   Fri Oct 30 10:58:24 2020 +0100
+
+    Merge branch 'dev' of github.com:Matthieu-CM/GitMergingActivity into dev
+
+[33mcommit 07164642d7e34d06697d777e6d101aafe38142ca[m
+Author: Bigo <jbsilvestre@hotmail.fr>
+Date:   Fri Oct 30 10:57:29 2020 +0100
+
+    bla
+
+[33mcommit 9bbbaa3d16b2fc0a2832e9fd1b00358f34811142[m
+Merge: 14cb0c5 427e9f5
+Author: Quentin GUYOT <quentin.guyot@epitech.eu>
+Date:   Fri Oct 30 10:56:51 2020 +0100
+
+    Merge branch 'quentin' into dev
+
+[33mcommit 6a54f75275139cc5a9e3fcf6dd013885e405d4fc[m
+Merge: fb954b3 14cb0c5
+Author: Estelle <estelle.thou@gmail.com>
+Date:   Fri Oct 30 10:55:44 2020 +0100
+
+    Merge branch 'dev' of github.com:Matthieu-CM/GitMergingActivity into dev
+
+[33mcommit fb954b3a200113821a034b59b0fb098d91d3d079[m
+Author: Estelle <estelle.thou@gmail.com>
+Date:   Fri Oct 30 10:54:50 2020 +0100
+
+    add branch estelle
+
+[33mcommit 14cb0c5484c62beaea655741b002f589d0c8cc9c[m
+Merge: c88ca2e 95fc1ec
+Author: Bleine <bleine.dhellot@epitech.com>
+Date:   Fri Oct 30 10:53:45 2020 +0100
+
+    Merge branch 'dev' of github.com:Matthieu-CM/GitMergingActivity into dev
+
+[33mcommit c88ca2e813a0979989530c2d767bce7b83b71bfa[m
+Author: Bleine <bleine.dhellot@epitech.com>
+Date:   Fri Oct 30 10:53:36 2020 +0100
+
+    bleine
+
+[33mcommit 95fc1ecfdee5063d5de0359b21f198b86597f31a[m
+Author: brice <brice.bousekkine@epitech.eu>
+Date:   Fri Oct 30 10:53:19 2020 +0100
+
+    fichier brice
+
+[33mcommit 227955e40becfefc165567514b59e1795e6d74fc[m
+Merge: 8542e69 6491bb3
+Author: Loic <loic.dubrulle@epitech.eu>
+Date:   Fri Oct 30 10:53:10 2020 +0100
+
+    Merge branch 'loic' into dev
+
+[33mcommit 427e9f59b9be50751101781ba9dbc6915d6a9140[m
+Author: Quentin GUYOT <quentin.guyot@epitech.eu>
+Date:   Fri Oct 30 10:52:04 2020 +0100
+
+    file
+
+[33mcommit 41311191016dab8c2521f12f69df10148d52fd66[m
+Merge: 63fb94e 8542e69
+Author: vmonsimier <valentin.monsimier@kedgebs.com>
+Date:   Fri Oct 30 10:51:15 2020 +0100
+
+    Merge branch 'dev' of https://github.com/Matthieu-CM/GitMergingActivity into dev
+
+[33mcommit 63fb94e0a6d4b67f1c8405e20a65d19aa4e9573f[m
+Author: vmonsimier <valentin.monsimier@kedgebs.com>
+Date:   Fri Oct 30 10:50:38 2020 +0100
+
+    add file valentin
+
+[33mcommit 509ab33dca0620d03e9c2e594b61cd1c9bb9eb42[m
+Author: francoissteffen <francois.steffen@epitech.eu>
+Date:   Fri Oct 30 10:50:37 2020 +0100
+
+    test François
+
+[33mcommit 8542e69a8585bbd2ef87041ad642be1060b4a134[m
+Author: YoannP-08 <yoann.pons08@gmail.com>
+Date:   Fri Oct 30 10:49:05 2020 +0100
+
+    test - added a file with my name
+
+[33mcommit 6491bb3251fcc86f9f3957ad88ae8669dd964b53[m
+Merge: d20ebe1 9837e8f
+Author: Matthieu-CM <38422090+Matthieu-CM@users.noreply.github.com>
+Date:   Fri Oct 30 05:34:02 2020 -0400
+
+    Merge pull request #2 from Matthieu-CM/Test
+    
+    [ADD] Test
+
+[33mcommit 9837e8f6179295ab152c67a802f0959ba6c04d94[m[33m ([m[1;31morigin/Test[m[33m)[m
+Author: Matthieu-CM <matthieu.correia-moreira@epitech.eu>
+Date:   Fri Oct 30 09:55:56 2020 +0100
+
+    [ADD] Test
+
+[33mcommit d20ebe1513c8c799e74db0b85ea6c35ff1044107[m
+Merge: 1fadc5f 3d2c795
+Author: Matthieu-CM <38422090+Matthieu-CM@users.noreply.github.com>
+Date:   Fri Oct 30 04:55:23 2020 -0400
+
+    Merge pull request #1 from Matthieu-CM/Matthieu
+    
+    Matthieu
+
+[33mcommit 3d2c795107d697cf56039260ef6565087b2bb36b[m[33m ([m[1;31morigin/Matthieu[m[33m)[m
+Author: Matthieu-CM <matthieu.correia-moreira@epitech.eu>
+Date:   Fri Oct 30 09:43:43 2020 +0100
+
+    Matthieu
+
+[33mcommit 1fadc5fca42a06e64a5c9d929e89b638ca4f82e4[m
+Author: Matthieu-CM <matthieu.correia-moreira@epitech.eu>
+Date:   Fri Oct 30 09:37:28 2020 +0100
+
+    Matthieu
